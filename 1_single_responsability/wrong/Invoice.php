@@ -1,5 +1,9 @@
 <?php
 
+/**
+* This invoice class has too many responsabilities
+*
+*/
 class Invoice{
 
   public function calculateTotal(){
