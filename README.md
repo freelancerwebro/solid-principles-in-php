@@ -11,4 +11,6 @@ SOLID Principles coded in PHP scripting language.
     - subclass does not allow or ignores some operation that the base class provides
     - subclass does not allow some parameters or ignores them.
 4. Interface segregation
+  - classes that implement interfaces should not be forced to implement methods they do not use
+  - it is better to have many small interfaces, rather than a few large interfaces
 5. Dependency inversion
