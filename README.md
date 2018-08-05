@@ -14,3 +14,5 @@ SOLID Principles coded in PHP scripting language.
   - classes that implement interfaces should not be forced to implement methods they do not use
   - it is better to have many small interfaces, rather than a few large interfaces
 5. Dependency inversion
+  - high level objects should not depend on low level implementations. Both should depend on abstractions.
+  - abstractions should not depend on details. Details should depend on abstractions.
